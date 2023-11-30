@@ -1,5 +1,5 @@
 body {
-  background-color: #0061f3;
+  background-color:lightskyblue;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,7 +10,7 @@ body {
 }
 
 a{
-  color: rgb(43, 243, 17);
+  color: black;
   width: 200px;
   display: block;
   font-size: xx-large;

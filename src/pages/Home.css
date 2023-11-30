@@ -1,11 +1,12 @@
-.display{
-    display: block;
-    transform: translate(7%, 10%);
-}
-.myText{
-    height: 100px;
-    justify-content: center;
-    vertical-align: middle;
+h1{
+    padding: 50px;
     text-align: center;
-    padding: 200px;
+    color: #000000;
+    font-size: 50px;
+}
+
+h2{
+
+    text-align: center;
+    color: black; 
 }

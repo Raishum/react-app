@@ -1,39 +1,48 @@
 .links{
     padding: 20px;
-    border: 1px solid rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0);
     font-weight: bold;
     display: flex;
     flex-direction: row;
     width: auto;
     align-content: center;
     text-align: center;
+
 }
 .home{
     display: block;
     transform: translate(0, 0);
     justify-self: flex-start;
-    margin-left: 220px;
-    margin-right: 20px;
+    margin-right: 10px;
+    margin-left: 400px;
+    text-align: center;
 }
-.code{
+.Pricing{
     display: block;
     transform: translate(0, 0);
     justify-self: flex-start;
     margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
 }
-.filters{
+.About{
     display: block;
     transform: translate(0, 0);
     justify-self: flex-start;
     margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
 }
 img{
     width: 100px;
     height: 50px;
 }
-.view{
+.Login{
     display: block;
     transform: translate(0, 0);
     justify-self: flex-start;
-    margin-right: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
 }
+

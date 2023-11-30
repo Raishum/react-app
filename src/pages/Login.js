@@ -3,7 +3,11 @@ import "./Login.css"
 
 const Login = ()=> {
   return (
-    <h1>test</h1>
+    <div>
+        <h1>test</h1>
+        <h2></h2>
+    </div>
+
   );
 }
 

@@ -2,8 +2,8 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './pages/Home';
 import Layout from './pages/Layout';
-import Code from "./pages/Code";
-import Filters from "./pages/Filter";
+import Pricing from "./pages/Pricing";
+import About from "./pages/About";
 import Login from "./pages/Login";
 
 
@@ -14,8 +14,8 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Layout />} >
           <Route index element={<Home />} />
-          <Route path="code" element={<Code />} />
-          <Route path="filters" element={<Filters />} />
+          <Route path="Pricing" element={<Pricing />} />
+          <Route path="About" element={<About />} />
           <Route path="Login" element={<Login />} />
           </Route>
         </Routes>
