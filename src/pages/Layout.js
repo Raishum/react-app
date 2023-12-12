@@ -5,7 +5,7 @@ import logo from "../gib.png"
 const Layout = () => {
   return (
     <>
-    <div class = "links">
+    <div class = "headerlinks">
         <img onClick={refreshPage} alt="‎" src= {logo}/>
         <Link class = "home" to="/">Home</Link>
         <Link class = "Pricing" to="Pricing">Pricing</Link>
